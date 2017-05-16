@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.left {
+  background: green;
+}
+
+.right {
+  background: magenta;
+}
